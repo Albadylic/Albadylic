@@ -17,8 +17,8 @@ This year I worked on:
 
 I held various roles at Founders and Coders and gained broad experience:
 - 💯 Mentored over 100 software developers through training and apprenticeships
-- 📜 Developed a new curriculum of project for programme applicants
 - 🕊️ Trained 30+ Product Owners through [Tech for Better](https://foundersandcoders.com/tech-for-better)
+- 📜 Developed a new curriculum of projects for programme applicants
 - ✔️ Led our first apprentices to pass End-point Assessment
 
 Being empathetic and self-motivated set me apart at Founders and Coders. I am keen to refocus on my own expertise as a developer in new challenges and opportunities.
